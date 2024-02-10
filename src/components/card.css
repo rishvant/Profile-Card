@@ -1,0 +1,34 @@
+.card-cont{
+    display: flex;
+    justify-content: center;
+    padding: 10%;
+}
+
+.card-inner{
+    background: linear-gradient(#ea5050, #585287);
+    border: solid 7px #284982;
+}
+
+.details{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-left: 5%;
+}
+
+.profile-img-card{
+    padding: 2%;
+    background: linear-gradient(#ea5050, #585287);
+}
+
+.profile-img{
+    border-radius: 15px;
+    border: solid 7px #5089ea;
+}
+
+.loader{
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}
